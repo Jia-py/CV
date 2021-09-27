@@ -3,28 +3,28 @@ layout: default
 ---
 <!-- [Link to another page](./another-page.html). -->
 
-# Introduction
+# <font color="#367bb8">Introduction</font>
 
 I am a student focusing on **spatial data science**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
 
-# Education
+# <font color="#367bb8">Education</font>
  
 * BSc in Geographic Information Science, Zhejiang University, _2017 - 2021_ 
  
 * MSc in Computer Science, The University of Hong Kong, _2021 - 2022_ 
 
-# Professionall Skills
+# <font color="#367bb8">Professionall Skills</font>
 
 * Programming Languages: Python, Java, C/C++, R
 * Data Science and Machine Learning: PyTorch, Sci-kit Learn, Numpy, Pandas, SPSS, Weka, GeoPandas
 * Visualization: ArcGIS, QGIS, Matplotlib, plotly, Tableau
 * Productivity and Creativity: Offic, Draw.io, Adobe Premiere
 
-# Publications
+# <font color="#367bb8">Publications</font>
 
 * 贾鹏越,王既涵,张丰,刘闯 & 石瑞香.(2020).威廉王岛. 全球变化数据学报(中英文)(04),400-401+400-401. doi:CNKI:SUN:QQSJ.0.2020-04-015.
 
-# Researches & Projects
+# <font color="#367bb8">Researches & Projects</font>
 
 
 ## SRTP National Innovation Training (Comprehensive Analysis of Urban Livability Based on the Combination of Time and Space Big Data)
@@ -59,7 +59,7 @@ _Research Assistant, 03/2021 - now_
 advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
 
 
-# Interns & Exchange Experience
+# <font color="#367bb8">Interns & Exchange Experience</font>
 
 ## Exchange Project (Shizuoka University, Japan)
 _exchange student, 07/2018 - 08/2018_
@@ -74,7 +74,7 @@ _Data Analysis Intern, 10/2020 - 01/2021_
 * Cleaned data; Analyzed urban regional innovation indicators; compare with Silicon Valley, gave suggestions
 * Engaged in Exploring the temporal and spatial changes of population with cell phone signaling data
 
-# Competition
+# <font color="#367bb8">Competition</font>
 
 
 ## LA COVID-19 Computational Challenge
@@ -89,7 +89,7 @@ ZJU news: [地科学院贾鹏越带领团队荣获新冠疫情数据科学国际
 * Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
 
 
-# Conferences
+# <font color="#367bb8">Conferences</font>
 
 ## IM Data 2020
 
@@ -99,7 +99,7 @@ conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule
 
 * Presented a risk assessment program for Covid-19 in Los Angeles with Multi-index evaluation system
 
-# Honors and Awards
+# <font color="#367bb8">Honors and Awards</font>
 * **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**, 2020
 * **Third Class Scholarship**, Granted by **Zhejiang University**, 2020
 * **Academic Excellence Award**, Granted by **Zhejiang University**, 2020
@@ -108,7 +108,7 @@ conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule
 * **Second Prize**, TiaoZhan Cup of Zhejiang Province, Granted by **Zhejiang Province**, 2021
 * School-level Outstanding Graduates, Granted by **Zhejiang University**, 2021
 
-# Core Courses
+# <font color="#367bb8">Core Courses</font>
 
 ## BSc
 
