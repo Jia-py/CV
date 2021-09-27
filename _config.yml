@@ -2,5 +2,5 @@ title: Pengyue Jia
 logo: /assets/img/Pengyue Jia.jpg
 description: Hi, it is Pengyue Jia.
 show_downloads: true
-google_analytics: true
+google_analytics: False
 theme: jekyll-theme-minimal
