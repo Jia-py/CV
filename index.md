@@ -8,10 +8,10 @@ layout: default
 I am a student focusing on **spatial data science**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
 
 # Education
-
-* BSc in Geographic Information Science, Zhejiang University  
-<p align=""right>2017-2021</p>
-* MSc in Computer Science, The University of Hong Kong, 2021-2022
+ 
+* BSc in Geographic Information Science, Zhejiang University, _2017 - 2021_ 
+ 
+* MSc in Computer Science, The University of Hong Kong, _2021 - 2022_ 
 
 # Professionall Skills
 
@@ -20,14 +20,13 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 * Visualization: ArcGIS, QGIS, Matplotlib, plotly, Tableau
 * Productivity and Creativity: Offic, Draw.io, Adobe Premiere
 
+# Publications
+
+* 贾鹏越,王既涵,张丰,刘闯 & 石瑞香.(2020).威廉王岛. 全球变化数据学报(中英文)(04),400-401+400-401. doi:CNKI:SUN:QQSJ.0.2020-04-015.
+
 # Researches & Projects
 
-## Exchange Project (Shizuoka University, Japan)
-_exchange student, 07/2018 - 08/2018_
-## Exchange Project (UIUC, USA)
-_exchange student, 07/2019 - 08/2019_
 
-Obtained intellectual understandings about CyberGIS
 ## SRTP National Innovation Training (Comprehensive Analysis of Urban Livability Based on the Combination of Time and Space Big Data)
 _Team Leader, 05/2019 - 05/2020_
 
@@ -38,8 +37,49 @@ advised by Prof. [Zhenhong Du](https://person.zju.edu.cn/en/zhenhongzju)
 * Adopted Arcmap and Python for data visualization and comprehensive analyses of city livability
 
 
+
+
+## ZJU Earth Big Data Research Program
+_Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_  
+advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou)  
+programme video channel: [ZJU_Earth_Data](https://space.bilibili.com/616904352?from=search&seid=626336702640278886&spm_id_from=333.337.0.0)  
+* Used python to Collect the rock data in the geological literature; Established the biggest open source diamond database
+* Judged the origin based on the composition of diamond using machine learning; Analyzed the composition pattern of diamond
+
+
+## BSc Thesis (A data-driven study of mantle diamonds and their inclusions)
+Evaluation: 4.2/5.0  
+advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou) 
+* We establish a diamond database through the Python script and the artificial screening and enters the data into the database as complete as possible. The database is open to global researchers, helping solve the scarcity of diamond data.
+* We introduce the machine learning model into the classification problem for diamonds and their inclusions. Comparisons are made between the basic machine learning methods with the frontier machine learning models (such as XGBoost and LightGBM) to obtain a high classification accuracy. The study investigates the best feature for classification providing information on the similarity of cratons.
+* Diamonds locality motions are visualized in the plates through the GPLATES platform for further research on diamond similarity.
+
+##  LA COVID-19 Prediction Model
+_Research Assistant, 03/2021 - now_  
+advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
+
+
+# Interns & Exchange Experience
+
+## Exchange Project (Shizuoka University, Japan)
+_exchange student, 07/2018 - 08/2018_
+## Exchange Project (UIUC, USA)
+_exchange student, 07/2019 - 08/2019_
+
+* Obtained intellectual understandings about CyberGIS
+
+## Zhejiang Lab
+_Data Analysis Intern, 10/2020 - 01/2021_
+
+* Cleaned data; Analyzed urban regional innovation indicators; compare with Silicon Valley, gave suggestions
+* Engaged in Exploring the temporal and spatial changes of population with cell phone signaling data
+
+# Competition
+
+
 ## LA COVID-19 Computational Challenge
-_**Second Place**, Team Leader, 05/2020 - 06/2020_  
+_Team Leader, 05/2020 - 06/2020_  
+**Second Place, 1000$ prize**  
 advised by Prof. [Feng Zhang](https://person.zju.edu.cn/en/fengzhang)  
 competition: [LA COVID-19 Computational Challenge](https://grmds.org/2020challenge)  
 project file: [City of LA Reopen Risk Evaluation](https://grmds.org/node/729)  
@@ -49,17 +89,27 @@ ZJU news: [地科学院贾鹏越带领团队荣获新冠疫情数据科学国际
 * Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
 
 
-## ZJU Earth Big Data Research Program
-_Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_
-* Used python to Collect the rock data in the geological literature; Established the biggest open source diamond database
-* Judged the origin based on the composition of diamond using machine learning; Analyzed the composition pattern of diamond
-
-
-## BSc Thesis (A data-driven study of mantle diamonds and their inclusions)
-
-* We establish a diamond database through the Python script and the artificial screening and enters the data into the database as complete as possible. The database is open to global researchers, helping solve the scarcity of diamond data.
-* We introduce the machine learning model into the classification problem for diamonds and their inclusions. Comparisons are made between the basic machine learning methods with the frontier machine learning models (such as XGBoost and LightGBM) to obtain a high classification accuracy. The study investigates the best feature for classification providing information on the similarity of cratons.
-* Diamonds locality motions are visualized in the plates through the GPLATES platform for further research on diamond similarity.
-## 
 # Conferences
 
+## IM Data 2020
+
+_Conference Speaker, 11/2021_
+
+conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/)
+
+* Presented a risk assessment program for Covid-19 in Los Angeles with Multi-index evaluation system
+
+# Honors and Awards
+* **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**, 2020
+* **Third Class Scholarship**, Granted by **Zhejiang University**, 2020
+* **Academic Excellence Award**, Granted by **Zhejiang University**, 2020
+* Academic Progress Award, Granted by **Zhejiang University**, 2020
+* Program Scholarship, School of Earth Sciences, Granted by **Zhejiang University**, 2019
+* **Second Prize**, TiaoZhan Cup of Zhejiang Province, Granted by **Zhejiang Province**, 2021
+* School-level Outstanding Graduates, Granted by **Zhejiang University**, 2021
+
+# Core Courses
+
+## BSc
+
+## MSc
