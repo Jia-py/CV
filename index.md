@@ -9,7 +9,8 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 
 # Education
 
-* BSc in Geographic IInformation Science, Zhejiang University, 2017-2021
+* BSc in Geographic Information Science, Zhejiang University  
+<p align=""right>2017-2021</p>
 * MSc in Computer Science, The University of Hong Kong, 2021-2022
 
 # Professionall Skills
