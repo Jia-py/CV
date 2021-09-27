@@ -32,9 +32,9 @@ _Team Leader, 05/2019 - 05/2020_
 
 advised by Prof. [Zhenhong Du](https://person.zju.edu.cn/en/zhenhongzju)
 
-1. Processed and screened POI data with spark; Constructed evaluation indicators for livable cities; Visualized the livability of cities
-2. Mastered the Arcmap software to spatially connect point data with city boundary data
-3. Adopted Arcmap and Python for data visualization and comprehensive analyses of city livability
+* Processed and screened POI data with spark; Constructed evaluation indicators for livable cities; Visualized the livability of cities
+* Mastered the Arcmap software to spatially connect point data with city boundary data
+* Adopted Arcmap and Python for data visualization and comprehensive analyses of city livability
 
 
 ## LA COVID-19 Computational Challenge
@@ -44,21 +44,21 @@ competition: [LA COVID-19 Computational Challenge](https://grmds.org/2020challen
 project file: [City of LA Reopen Risk Evaluation](https://grmds.org/node/729)  
 Xinhua news: [Spotlight: Los Angeles Covid Computational Challenge highlights global resolution](http://www.xinhuanet.com/english/2020-06/18/c_139147313.htm)  
 ZJU news: [地科学院贾鹏越带领团队荣获新冠疫情数据科学国际挑战赛第二名](https://www.zju.edu.cn/2020/0624/c32861a2157945/page.htm)
-1. Won the second prize and the opportunity to participate in the conference IM Data 2020
-2. Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
+* Won the second prize and the opportunity to participate in the conference IM Data 2020
+* Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
 
 
 ## ZJU Earth Big Data Research Program
 _Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_
-1. Used python to Collect the rock data in the geological literature; Established the biggest open source diamond database
-2. Judged the origin based on the composition of diamond using machine learning; Analyzed the composition pattern of diamond
+* Used python to Collect the rock data in the geological literature; Established the biggest open source diamond database
+* Judged the origin based on the composition of diamond using machine learning; Analyzed the composition pattern of diamond
 
 
 ## BSc Thesis (A data-driven study of mantle diamonds and their inclusions)
 
-1. We establish a diamond database through the Python script and the artificial screening and enters the data into the database as complete as possible. The database is open to global researchers, helping solve the scarcity of diamond data.
-2. We introduce the machine learning model into the classification problem for diamonds and their inclusions. Comparisons are made between the basic machine learning methods with the frontier machine learning models (such as XGBoost and LightGBM) to obtain a high classification accuracy. The study investigates the best feature for classification providing information on the similarity of cratons.
-3. Diamonds locality motions are visualized in the plates through the GPLATES platform for further research on diamond similarity.
+* We establish a diamond database through the Python script and the artificial screening and enters the data into the database as complete as possible. The database is open to global researchers, helping solve the scarcity of diamond data.
+* We introduce the machine learning model into the classification problem for diamonds and their inclusions. Comparisons are made between the basic machine learning methods with the frontier machine learning models (such as XGBoost and LightGBM) to obtain a high classification accuracy. The study investigates the best feature for classification providing information on the similarity of cratons.
+* Diamonds locality motions are visualized in the plates through the GPLATES platform for further research on diamond similarity.
 ## 
 # Conferences
 
