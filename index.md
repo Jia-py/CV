@@ -8,9 +8,9 @@ layout: default
 I am a student focusing on **spatial data science**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
 
 # <font color="#367bb8">Education</font>
- 
+
 * BSc in Geographic Information Science, Zhejiang University, _2017 - 2021_ 
- 
+
 * MSc in Computer Science, The University of Hong Kong, _2021 - 2022_ 
 
 # <font color="#367bb8">Professionall Skills</font>
@@ -22,7 +22,7 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 
 # <font color="#367bb8">Publications</font>
 
-* 贾鹏越,王既涵,张丰,刘闯 & 石瑞香.(2020).威廉王岛. 全球变化数据学报(中英文)(04),400-401+400-401. doi:CNKI:SUN:QQSJ.0.2020-04-015.
+*  Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang;School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
 
 # <font color="#367bb8">Researches & Projects</font>
 
