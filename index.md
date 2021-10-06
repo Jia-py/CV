@@ -71,7 +71,7 @@ _exchange student, 07/2019 - 08/2019_
 ## Zhejiang Lab
 _Data Analysis Intern, 10/2020 - 01/2021_
 
-* Cleaned data; Analyzed urban regional innovation indicators; compare with Silicon Valley, gave suggestions
+* Crawl data from complaint platform and realize daily update automatically
 * Engaged in Exploring the temporal and spatial changes of population with cell phone signaling data
 
 # <font color="#367bb8">Competition</font>
