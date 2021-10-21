@@ -37,14 +37,20 @@ advised by Prof. [Zhenhong Du](https://person.zju.edu.cn/en/zhenhongzju)
 
 ## ZJU Earth Big Data Research Program
 
-_Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou)programme video channel: [ZJU_Earth_Data](https://space.bilibili.com/616904352?from=search&seid=626336702640278886&spm_id_from=333.337.0.0)
+_Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_
+
+advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou)
+
+programme video channel: [ZJU_Earth_Data](https://space.bilibili.com/616904352?from=search&seid=626336702640278886&spm_id_from=333.337.0.0)
 
 * Used python to Collect the rock data in the geological literature; Established the biggest open source diamond database
 * Judged the origin based on the composition of diamond using machine learning; Analyzed the composition pattern of diamond
 
 ## BSc Thesis (A data-driven study of mantle diamonds and their inclusions)
 
-Evaluation: 4.2/5.0advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou)
+Evaluation: 4.2/5.0
+
+advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu.cn/en/zhangzhou)
 
 * We establish a diamond database through the Python script and the artificial screening and enters the data into the database as complete as possible. The database is open to global researchers, helping solve the scarcity of diamond data.
 * We introduce the machine learning model into the classification problem for diamonds and their inclusions. Comparisons are made between the basic machine learning methods with the frontier machine learning models (such as XGBoost and LightGBM) to obtain a high classification accuracy. The study investigates the best feature for classification providing information on the similarity of cratons.
@@ -52,7 +58,9 @@ Evaluation: 4.2/5.0advised by Hundred-Talent Program Researcher [Zhou Zhang](htt
 
 ## LA COVID-19 Prediction Model
 
-_Research Assistant, 03/2021 - now_advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
+_Research Assistant, 03/2021 - now_
+
+advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
 
 * we build graph in high spatial resolution units based on fine-grained mobility data and COVID-19 infections data to predict the number of new added infections.
 * We introduce a spatial weighted aggregation module to aggregate the embeddings from lower level geographic layer to higher level geographic layer.
@@ -82,7 +90,17 @@ _Data Analysis Intern, 10/2020 - 01/2021_
 
 ## LA COVID-19 Computational Challenge
 
-_Team Leader, 05/2020 - 06/2020_**Second Place, 1000$ prize**advised by Prof. [Feng Zhang](https://person.zju.edu.cn/en/fengzhang)competition: [LA COVID-19 Computational Challenge](https://grmds.org/2020challenge)project file: [City of LA Reopen Risk Evaluation](https://grmds.org/node/729)Xinhua news: [Spotlight: Los Angeles Covid Computational Challenge highlights global resolution](http://www.xinhuanet.com/english/2020-06/18/c_139147313.htm)ZJU news: [地科学院贾鹏越带领团队荣获新冠疫情数据科学国际挑战赛第二名](https://www.zju.edu.cn/2020/0624/c32861a2157945/page.htm)
+_Team Leader, 05/2020 - 06/2020_
+
+**Second Place, 1000$ prize**advised by Prof. [Feng Zhang](https://person.zju.edu.cn/en/fengzhang)
+
+competition: [LA COVID-19 Computational Challenge](https://grmds.org/2020challenge)
+
+project file: [City of LA Reopen Risk Evaluation](https://grmds.org/node/729)
+
+Xinhua news: [Spotlight: Los Angeles Covid Computational Challenge highlights global resolution](http://www.xinhuanet.com/english/2020-06/18/c_139147313.htm)
+
+ZJU news: [地科学院贾鹏越带领团队荣获新冠疫情数据科学国际挑战赛第二名](https://www.zju.edu.cn/2020/0624/c32861a2157945/page.htm)
 
 * Won the second prize and the opportunity to participate in the conference IM Data 2020
 * Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
