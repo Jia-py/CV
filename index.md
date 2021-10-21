@@ -92,7 +92,9 @@ _Data Analysis Intern, 10/2020 - 01/2021_
 
 _Team Leader, 05/2020 - 06/2020_
 
-**Second Place, 1000$ prize**advised by Prof. [Feng Zhang](https://person.zju.edu.cn/en/fengzhang)
+**Second Place, 1000$ prize**
+
+advised by Prof. [Feng Zhang](https://person.zju.edu.cn/en/fengzhang)
 
 competition: [LA COVID-19 Computational Challenge](https://grmds.org/2020challenge)
 
