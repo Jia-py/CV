@@ -3,27 +3,27 @@ layout: default
 ---
 <!-- [Link to another page](./another-page.html). -->
 
-# `<font color="#367bb8">`Introduction`</font>`
+# <font color="#367bb8">Introduction</font>
 
 I am a student focusing on **spatial data science**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
 
-# `<font color="#367bb8">`Education`</font>`
+# <font color="#367bb8">Education</font>
 
 * BSc in Geographic Information Science, Zhejiang University, _2017 - 2021_
 * MSc in Computer Science, The University of Hong Kong, _2021 - 2022_
 
-# `<font color="#367bb8">`Professionall Skills`</font>`
+# <font color="#367bb8">Professionall Skills</font>
 
 * Programming Languages: Python, Java, C/C++, R
 * Data Science and Machine Learning: PyTorch, Sci-kit Learn, Numpy, Pandas, SPSS, Weka, GeoPandas
 * Visualization: ArcGIS, QGIS, Matplotlib, plotly, Tableau
 * Productivity and Creativity: Offic, Draw.io, Adobe Premiere, Visio
 
-# `<font color="#367bb8">`Publications`</font>`
+# <font color="#367bb8">Publications</font>
 
 * Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang; King William Island; School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
 
-# `<font color="#367bb8">`Researches & Projects`</font>`
+# <font color="#367bb8">Researches & Projects</font>
 
 ## SRTP National Innovation Training (Comprehensive Analysis of Urban Livability Based on the Combination of Time and Space Big Data)
 
@@ -59,7 +59,7 @@ _Research Assistant, 03/2021 - now_advised by Prof. [Ling Chen](https://person.z
 
 **still under prep.**
 
-# `<font color="#367bb8">`Interns & Exchange Experience`</font>`
+# <font color="#367bb8">Interns & Exchange Experience</font>
 
 ## Exchange Project (Shizuoka University, Japan)
 
@@ -78,7 +78,7 @@ _Data Analysis Intern, 10/2020 - 01/2021_
 * Crawl data from complaint platform and realize daily update automatically
 * Engaged in Exploring the temporal and spatial changes of population with cell phone signaling data
 
-# `<font color="#367bb8">`Competition`</font>`
+# <font color="#367bb8">Competition</font>
 
 ## LA COVID-19 Computational Challenge
 
@@ -87,7 +87,7 @@ _Team Leader, 05/2020 - 06/2020_**Second Place, 1000$ prize**advised by Prof. [F
 * Won the second prize and the opportunity to participate in the conference IM Data 2020
 * Evaluated the risk of viral infection in the areas around Los Angeles using multi-index evaluation system
 
-# `<font color="#367bb8">`Conferences`</font>`
+# <font color="#367bb8">Conferences</font>
 
 ## IM Data 2020
 
@@ -97,7 +97,7 @@ conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule
 
 * Presented a risk assessment program for Covid-19 in Los Angeles with Multi-index evaluation system
 
-# `<font color="#367bb8">`Honors and Awards`</font>`
+# <font color="#367bb8">Honors and Awards</font>
 
 * **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**, 2020
 * **Third Class Scholarship**, Granted by **Zhejiang University**, 2020
@@ -107,7 +107,7 @@ conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule
 * **Second Prize**, TiaoZhan Cup of Zhejiang Province, Granted by **Zhejiang Province**, 2021
 * School-level Outstanding Graduates, Granted by **Zhejiang University**, 2021
 
-# `<font color="#367bb8">`Core Courses`</font>`
+# <font color="#367bb8">Core Courses</font>
 
 ## BSc
 
