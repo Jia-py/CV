@@ -62,7 +62,7 @@ _Research Assistant, 03/2021 - now_
 
 advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
 
-* we build graph in high spatial resolution units based on fine-grained mobility data and COVID-19 infections data to predict the number of new added infections.
+* we build graphs in high spatial resolution units based on fine-grained mobility data and COVID-19 infections data to predict the number of newly added infections.
 * We introduce a spatial weighted aggregation module to aggregate the embeddings from lower level geographic layer to higher level geographic layer.
 
 **still under prep.**
