@@ -13,8 +13,8 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper" style="width:80%">
-      <header style="width:15%">
+    <div class="wrapper">
+      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
         {% if site.logo %}
@@ -46,7 +46,7 @@
         </ul>
         {% endif %}
       </header>
-      <section style="width:75%">
+      <section>
 
       {{ content }}
 
