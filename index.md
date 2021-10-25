@@ -39,7 +39,7 @@ advised by Prof. [Zhenhong Du](https://person.zju.edu.cn/en/zhenhongzju)
 
 _Developer_, 02/2020 - 06/2020
 
-[Preview Link](https://drive.google.com/file/d/1NS_cGTvkkmyr8Gf2n2dWVb1Kw5vBVZT-/view?usp=sharing)
+[Preview Link](https://drive.google.com/file/d/1cm84q-BjfyKkDBFXJ-rTm5fLQ0AY6E2G/view?usp=sharing)
 
 * Accomplished the development of epidemic map, epidemic information module by statistically analyzing the epidemic data
 
