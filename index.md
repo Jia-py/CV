@@ -35,6 +35,14 @@ advised by Prof. [Zhenhong Du](https://person.zju.edu.cn/en/zhenhongzju)
 * Mastered the Arcmap software to spatially connect point data with city boundary data
 * Adopted Arcmap and Python for data visualization and comprehensive analyses of city livability
 
+## EMSS(WeChat mini program) - an epidemic situation monitoring and service system
+
+_Developer_, 02/2020 - 06/2020
+
+[Preview Link](https://drive.google.com/file/d/1NS_cGTvkkmyr8Gf2n2dWVb1Kw5vBVZT-/view?usp=sharing)
+
+* Accomplished the development of epidemic map, epidemic information module by statistically analyzing the epidemic data
+
 ## ZJU Earth Big Data Research Program
 
 _Research Assistant, 06/2020 - 07/2020 & 11/2020 - 06/2021_
