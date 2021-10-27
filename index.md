@@ -21,7 +21,7 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 
 # <font color="#367bb8">Publications</font>
 
-* Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang; King William Island; School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
+* Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang; King William Island; School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences [[www]([威廉王岛 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=QQSJ202004015&uniplatform=NZKPT&v=oHIOFPjJaF4LMYRkAqaNmOx0%mmd2BMN9zNvKVOr8I9XpzFpBRJ%mmd2FjSXtiqr96I2q9xmfF))]
 * Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model (**Still under prep.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc))
 
 # <font color="#367bb8">Researches & Projects</font>
