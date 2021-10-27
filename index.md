@@ -15,13 +15,14 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 # <font color="#367bb8">Professionall Skills</font>
 
 * Programming Languages: Python, Java, C/C++, R
-* Data Science and Machine Learning: PyTorch, Sci-kit Learn, Numpy, Pandas, SPSS, Weka, GeoPandas
+* Data Science and Machine Learning: PyTorch, Sci-kit Learn, Numpy, Pandas, SPSS, Weka, GeoPandas, NNI
 * Visualization: ArcGIS, QGIS, Matplotlib, plotly, Tableau
 * Productivity and Creativity: Offic, Draw.io, Adobe Premiere, Visio
 
 # <font color="#367bb8">Publications</font>
 
 * Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang; King William Island; School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
+* Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model (still under prep. | advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc))
 
 # <font color="#367bb8">Researches & Projects</font>
 
