@@ -148,5 +148,5 @@ conference website: [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule
 * Computational Intelligence and Machine Learning
 * Data Mining
 * Cluster and Cloud Computing
-* Visualization and Visual Analytics
+* Visualization and Visual Analytics, Project Website: [Link](https://yukun4119.github.io/COMP7507_Visualization_2021/), Project Preview: [Link](https://drive.google.com/file/d/1HhUdYxV3QCB5kmF5cEqdQk9JEZGoKja1/view?usp=sharing)
 * Financial Fraud Analytics
