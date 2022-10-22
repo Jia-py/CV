@@ -5,12 +5,13 @@ layout: default
 
 # <font color="#367bb8">Introduction</font>
 
-I am a student focusing on **spatial data science**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
+I am a student focusing on **spatial data science & RecSys**. I hope to combine **computer science** to uncover usable patterns in geospatial data that can help the development of society.
 
 # <font color="#367bb8">Education</font>
 
 * BSc in Geographic Information Science, Zhejiang University, _2017 - 2021_
 * MSc in Computer Science, The University of Hong Kong, _2021 - 2022_
+* PhD in Data Science, City University of Hong Kong, 2023 - 2027
 
 # <font color="#367bb8">Professionall Skills</font>
 
@@ -21,7 +22,7 @@ I am a student focusing on **spatial data science**. I hope to combine **compute
 
 # <font color="#367bb8">Publications</font>
 
-* Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model (**Still under prep.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc))
+* Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model (**accepted by Cybernetics and Systems.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc))
 * Jia,P.Y.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang; King William Island; School of Earth Sciences, Zhejiang University;Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences [[www](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=QQSJ202004015&uniplatform=NZKPT&v=oHIOFPjJaF4LMYRkAqaNmOx0%mmd2BMN9zNvKVOr8I9XpzFpBRJ%mmd2FjSXtiqr96I2q9xmfF)]
 
 # <font color="#367bb8">Researches & Projects</font>
@@ -67,7 +68,7 @@ advised by Hundred-Talent Program Researcher [Zhou Zhang](https://person.zju.edu
 
 ## LA COVID-19 Prediction Model
 
-_Research Assistant, 03/2021 - now_
+_Research Assistant, 03/2021 - 05/2022_
 
 advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc)
 
